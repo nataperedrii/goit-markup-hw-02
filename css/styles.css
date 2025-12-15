@@ -98,5 +98,39 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+}
+
+/* section-3 */
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+.section-title {
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;  
+}
+
+.section-team-ul {
+    background-color: #FFFFFF;
+    }
+
+/* Footer */
+
+.page-footer {
+    background-color: #2E2F42;
+}
+
+.header-logo .logo-footer {
+    color: #F4F4FD;
+}
+
+.paragraph-footer {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
